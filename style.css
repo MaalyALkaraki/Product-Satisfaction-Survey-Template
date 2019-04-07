@@ -1,0 +1,20 @@
+body {
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	min-width: 320px;
+	border-radius: 4px;
+	width: 90%;
+	max-width: 90%;
+	margin: 0;
+	padding: 10px 80px;
+	padding-top: 40px;
+	background-image: url("2bc7b7bf32f3d5c46318c1f7e76e07f6--mac-makeup-products-mac-makeup-brushes.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+form {
+	padding: 10px 20px;
+	/* background-color: gainsboro; */
+	background-color: rgb(255, 240, 247);
+}
